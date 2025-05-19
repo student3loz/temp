@@ -1,0 +1,17 @@
+.dec_paragraph {
+    text-align: justify; /* вирівнювання тексту за шириною */
+    text-indent: 12.5mm; /* відступ першого рядка абзацу */
+    background-image: url("../img/Paragraph-sep.png");
+    background-repeat: no-repeat; /* зображення без повторів */
+    background-position: bottom; /* розташування зображення внизу по центру */
+    padding-bottom: 50px; /* внутрішній відсутп контейнера знизу */
+}
+
+.dec_button {
+    background-image: url("../img/BtnYes1.png");
+    background-repeat: no-repeat;
+    min-height: 50; /* мінімальна висота кнопки */
+    min-width: 50; /* мінімальна ширина кнопки */
+    border-style: none; /* не промальовуємо рамку */
+    border-radius: 20; /* радіус заокруглення кутів */
+}
